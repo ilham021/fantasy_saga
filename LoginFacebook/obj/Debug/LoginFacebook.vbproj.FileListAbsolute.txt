@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\LoginFacebook\LoginFacebook\obj\Debug\LoginFacebook.exe
+C:\Users\User\Desktop\LoginFacebook\LoginFacebook\obj\Debug\LoginFacebook.xml
+C:\Users\User\Desktop\LoginFacebook\LoginFacebook\obj\Debug\LoginFacebook.pdb
+C:\Users\User\Desktop\LoginFacebook\LoginFacebook\bin\Debug\LoginFacebook.exe
+C:\Users\User\Desktop\LoginFacebook\LoginFacebook\bin\Debug\LoginFacebook.pdb
+C:\Users\User\Desktop\LoginFacebook\LoginFacebook\bin\Debug\LoginFacebook.xml
+C:\Users\User\Desktop\LoginFacebook\LoginFacebook\obj\Debug\LoginFacebook.Form1.resources
+C:\Users\User\Desktop\LoginFacebook\LoginFacebook\obj\Debug\LoginFacebook.Resources.resources
+C:\Users\User\Desktop\LoginFacebook\LoginFacebook\obj\Debug\LoginFacebook.vbproj.GenerateResource.Cache
+C:\Users\User\Desktop\LoginFacebook\LoginFacebook\obj\Debug\LoginFacebook.Form2.resources

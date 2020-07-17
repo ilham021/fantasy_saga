@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\LoginFacebook\LoginFacebook\obj\Debug\Login Lost Saga.vbproj.GenerateResource.Cache
+C:\Users\User\Desktop\LoginFacebook\LoginFacebook\bin\Debug\Login.exe
+C:\Users\User\Desktop\LoginFacebook\LoginFacebook\bin\Debug\Login.pdb
+C:\Users\User\Desktop\LoginFacebook\LoginFacebook\bin\Debug\Login.xml
+C:\Users\User\Desktop\LoginFacebook\LoginFacebook\obj\Debug\Login.Form1.resources
+C:\Users\User\Desktop\LoginFacebook\LoginFacebook\obj\Debug\Login.Form2.resources
+C:\Users\User\Desktop\LoginFacebook\LoginFacebook\obj\Debug\Login.Resources.resources
+C:\Users\User\Desktop\LoginFacebook\LoginFacebook\obj\Debug\Login.exe
+C:\Users\User\Desktop\LoginFacebook\LoginFacebook\obj\Debug\Login.xml
+C:\Users\User\Desktop\LoginFacebook\LoginFacebook\obj\Debug\Login.pdb
